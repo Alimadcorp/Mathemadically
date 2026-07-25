@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.40348"
+     inkscape:cx="166.72842"
+     inkscape:cy="311.72514"
+     inkscape:window-width="1362"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask8">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.269925"
+         id="rect9"
+         width="23.227465"
+         height="11.391427"
+         x="43.572632"
+         y="54.294514"
+         inkscape:label="rect" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask10">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.700045"
+         id="rect11"
+         width="60.010883"
+         height="29.655956"
+         x="15.850931"
+         y="83.532021"
+         inkscape:label="white" />
+    </mask>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.991"
+       id="rect1"
+       width="59.719929"
+       height="59.719929"
+       x="15.996409"
+       y="53.321365"
+       inkscape:label="black" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.8713px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:22.1207"
+       x="21.347769"
+       y="103.22102"
+       id="text1"
+       inkscape:label="pi"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Geist;-inkscape-font-specification:Geist;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:22.1207"
+         x="21.347769"
+         y="103.22102">π</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.700044;fill-opacity:1"
+       id="rect10"
+       width="60.010883"
+       height="29.655956"
+       x="15.850931"
+       y="83.532021"
+       inkscape:label="white" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.8713px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:22.1207"
+       x="21.347769"
+       y="103.22102"
+       id="text7"
+       inkscape:label="pi-black"
+       mask="url(#mask10)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Geist;-inkscape-font-specification:Geist;fill:#000000;fill-opacity:1;stroke:none;stroke-width:22.1207"
+         x="21.347769"
+         y="103.22102">π</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.1845px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:14.7275"
+       x="41.624218"
+       y="80.892487"
+       id="text3"
+       inkscape:label="e"
+       mask="url(#mask8)"
+       transform="translate(0.03921708,0.02101925)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:14.7275"
+         x="41.624218"
+         y="80.892487">e</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.991"
+       id="path8"
+       cx="35.488796"
+       cy="59.525028"
+       r="3.8175197"
+       inkscape:label="i-circle" />
+  </g>
+</svg>
