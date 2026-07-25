@@ -69,7 +69,7 @@
        width="59.719929"
        height="59.719929"
        x="15.996409"
-       y="53.321365"
+       y="51.733864"
        inkscape:label="black" />
     <text
        xml:space="preserve"
@@ -91,19 +91,14 @@
        x="15.850931"
        y="83.532021"
        inkscape:label="white" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.8713px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:22.1207"
-       x="21.347769"
-       y="103.22102"
+    <path
+       style="font-size:70.8713px;font-family:Geist;-inkscape-font-specification:Geist;stroke-width:22.1207"
+       d="m 63.020093,103.22102 c -3.82705,0 -6.591031,-0.94495 -8.291942,-2.83485 -1.700911,-1.8899 -2.551367,-4.394019 -2.551367,-7.512356 V 67.714502 h 5.953189 v 25.159312 c 0,1.606416 0.401604,2.858476 1.204812,3.756179 0.850456,0.897703 2.078892,1.346554 3.685308,1.346554 h 2.19701 v 5.244473 z M 32.828919,97.929353 V 67.927116 h 5.95319 V 97.929353 Z M 25.24569,70.903711 v -5.244476 h 40.113156 v 5.244476 z"
        id="text7"
+       mask="url(#mask10)"
        inkscape:label="pi-black"
-       mask="url(#mask10)"><tspan
-         sodipodi:role="line"
-         id="tspan7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Geist;-inkscape-font-specification:Geist;fill:#000000;fill-opacity:1;stroke:none;stroke-width:22.1207"
-         x="21.347769"
-         y="103.22102">π</tspan></text>
+       aria-label="π"
+       sodipodi:nodetypes="sssccscsccscccccccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.1845px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:14.7275"
@@ -112,18 +107,18 @@
        id="text3"
        inkscape:label="e"
        mask="url(#mask8)"
-       transform="translate(0.03921708,0.02101925)"><tspan
+       transform="matrix(1.154007,0,0,0.96682179,-17.873284,2.5528039)"><tspan
          sodipodi:role="line"
          id="tspan3"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:14.7275"
          x="41.624218"
          y="80.892487">e</tspan></text>
     <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.991"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.966537"
        id="path8"
-       cx="35.488796"
-       cy="59.525028"
-       r="3.8175197"
+       cx="35.960094"
+       cy="103.73203"
+       r="3.7232599"
        inkscape:label="i-circle" />
   </g>
 </svg>
