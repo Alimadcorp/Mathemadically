@@ -1,0 +1,40 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Mathemadically"
+config/description=" An open math sandbox."
+config/version="0.1.0-alpha"
+run/disable_stdout=true
+boot_splash/bg_color=Color(0, 0, 0, 1)
+config/features=PackedStringArray("26.1", "Forward Plus", "Redot")
+run/max_fps=120
+boot_splash/show_image=false
+config/icon="uid://l0h4wt4n8r8b"
+config/windows_native_icon="res://icon.ico"
+
+[display]
+
+window/size/mode=2
+window/stretch/mode="viewport"
+window/stretch/aspect="keep_width"
+
+[dotnet]
+
+project/assembly_name="Mathemadically"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot_super-wakatime/plugin.cfg", "res://addons/versions/plugin.cfg")
+
+[input_devices]
+
+pointing/android/enable_long_press_as_right_click=true
